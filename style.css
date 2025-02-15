@@ -7,6 +7,7 @@ body{
     background: #111;
     background-size: 80px 50px;
     background-image: linear-gradient(to right, #333 1px, transparent 1px),linear-gradient(to bottom, #333 1px, transparent 1px);
+    box-sizing: border-box;
 }
 
 .animation{
